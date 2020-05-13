@@ -1,0 +1,6 @@
+---
+title: "Personal Website"
+---
+
+I am a student at 
+[UCC](https://www.ucc.ie/en/).
