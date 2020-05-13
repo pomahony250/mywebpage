@@ -6,4 +6,9 @@ output:
     self_contained: no  
     theme: flatly  
 navbar:  
-  title: "My First Webpage" 
+  title: "Paul O'Mahony" 
+  left: 
+    - text: "Home"
+      href: index.html
+    - text: "Teaching"
+      href: Teaching.html

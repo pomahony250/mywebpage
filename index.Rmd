@@ -1,5 +1,5 @@
 ---
-title: "Personal Website"
+title: "Home"
 ---
 
 I am a student at 
