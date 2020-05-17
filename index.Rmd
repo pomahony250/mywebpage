@@ -2,5 +2,7 @@
 title: "Home"
 ---
 
-I am a student at 
+I am an undergraduate student of Financial Maths and Actuarial Science at 
 [UCC](https://www.ucc.ie/en/).
+
+My primary interests include insurance, economics, markets and data science.

@@ -4,6 +4,20 @@ title: "Teaching"
 ---
 
 
-I have helped students preparing for their Junior and Leaving Cert exams since 2017. On this page you will find related notes.
+I have helped students preparing for their Junior and Leaving Cert maths exams since 2017. On this page you will find related notes. These are a work in progress - please check back for updates.
+
+### Junior Cert
+
+## Algebra
+
+* [Solving Linear Equations](https://drive.google.com/file/d/15aVY_iN_staykY1yVVouUFXxCMQsCjh6/view?usp=sharing)
+
+* [Simultaneous Equations](https://drive.google.com/file/d/19KsIzieN1XMtoRiU8YDByOo2RbxeSvIw/view?usp=sharing)
+
+* [Solving Quadratic Equations (Using the -b Formula)](https://drive.google.com/file/d/17XJ7JvmJKb2_7rCX4klHjrAFmP_TxS93/view?usp=sharing)
+
+* [Factorising (4 types)](https://drive.google.com/file/d/17Y7sCRDbLSR3H1t2mStXMGUm-v8-prfi/view?usp=sharing)
+
+* [Long Division](https://drive.google.com/file/d/18olH7XIXRZcPZzFr7m93qTgCApPdWNok/view?usp=sharing)
 
 
