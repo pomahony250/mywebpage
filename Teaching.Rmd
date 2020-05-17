@@ -6,9 +6,9 @@ title: "Teaching"
 
 I have helped students preparing for their Junior and Leaving Cert maths exams since 2017. On this page you will find related notes. These are a work in progress - please check back for updates.
 
-### Junior Cert
+## Junior Cert
 
-## Algebra
+### Algebra
 
 * [Solving Linear Equations](https://drive.google.com/file/d/15aVY_iN_staykY1yVVouUFXxCMQsCjh6/view?usp=sharing)
 
