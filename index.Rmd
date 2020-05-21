@@ -6,3 +6,10 @@ I am an undergraduate student of Financial Maths and Actuarial Science at
 [UCC](https://www.ucc.ie/en/).
 
 My primary interests include insurance, economics, markets and data science.
+
+This website was created as a first project in R Markdown and [Github](https://github.com/pomahony250), using:
+
+* The psyTeachR team at the University of Glasgow School of Psychology and Institute of Neuroscience and Psychology's [step-by-step guide to creating an academic website](https://gupsych.github.io/acadweb/setup.html) and 
+
+* Garrett Grolemund's [R Markdown Overview](https://garrettgman.github.io/rmarkdown/rmarkdown_websites.html#overview).
+

@@ -4,7 +4,11 @@ title: "Teaching"
 ---
 
 
-I have helped students preparing for their Junior and Leaving Cert maths exams since 2017. On this page you will find related notes. These are a work in progress - please check back for updates.
+I have helped students preparing for their Junior and Leaving Cert maths exams since 2017. On this page you will find related notes. 
+
+These are a work in progress - please check back for updates.
+
+Any corrections and/or enquiries regarding online tutoring will be gratefully received at pomahony250 at gmail dot com.
 
 ## Junior Cert
 
@@ -20,4 +24,13 @@ I have helped students preparing for their Junior and Leaving Cert maths exams s
 
 * [Long Division](https://drive.google.com/file/d/18olH7XIXRZcPZzFr7m93qTgCApPdWNok/view?usp=sharing)
 
+* [Linear Inequalities](https://drive.google.com/file/d/1A-8f0LBUFMY7Mzcm55OAUTBilJD7J3GS/view?usp=sharing)
+
+* [Changing the Subject of a Formula](https://drive.google.com/file/d/1B4bMfWlu5VezaWsSEsRQ90H1vMys5Bmt/view?usp=sharing)
+
+* [Equating Coefficients](https://drive.google.com/file/d/1BgvdP6pEvwpSDyRvaEH-SkwdIVOgOzYy/view?usp=sharing)
+
+### Functions
+
+* [Understanding Functions](https://drive.google.com/file/d/1CEr0nYXR028SK9E_ASbnLG_lWqnDOS0z/view?usp=sharing)
 
