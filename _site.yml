@@ -12,3 +12,6 @@ navbar:
       href: index.html
     - text: "Teaching"
       href: Teaching.html
+    - text: "Links"
+      href: Links.html
+      
