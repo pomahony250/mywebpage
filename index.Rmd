@@ -5,7 +5,7 @@ title: "Home"
 I am an undergraduate student of Financial Maths and Actuarial Science at 
 [UCC](https://www.ucc.ie/en/).
 
-My primary interests include insurance, economics, markets and data science.
+My interests include insurance, economics, markets and data science.
 
 This website was created as a first project in R Markdown and [Github](https://github.com/pomahony250), using:
 

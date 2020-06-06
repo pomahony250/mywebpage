@@ -16,9 +16,17 @@ This page is a work in progress - please check back for updates.
 
 * [Paul's Maths Notes](https://tutorial.math.lamar.edu/) - Relied upon by students for a reason, comprehensive coverage of Calculus and ODEs.
 
+* [Math Doctor Bob](https://www.youtube.com/user/MathDoctorBob/featured) - Fantastic breakdowns of numerous college subjects including abstract algebra, calculus and analysis. 
+
+* [patrickJMT](https://www.youtube.com/user/patrickJMT) - Quick, hands-on demos of crucial maths ideas to deliver understanding fast. 
+
 ## Everything
 
+### Online Courses
+
 * [Coursera](https://www.coursera.org/) - Learning from top courses worldwide in a fun, interactive way. Materials are free and you can pay for an optional cert.
+
+* [MIT OpenCourseWare](https://ocw.mit.edu/index.htm) - Get an MIT education at home. Many courses have notes, lectures and assignments all available. 
 
 
 
