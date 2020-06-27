@@ -3,13 +3,11 @@ title: "Teaching"
 ---
 
 
-I have helped students preparing for their Junior and Leaving Cert maths exams since 2017. On this page you will find related notes. 
-
-These are a work in progress - please check back for updates.
+I have helped students preparing for their Junior and Leaving Cert maths exams since 2017. On this page you will find Junior Cert Higher Level notes. These may also prove useful revision for Leaving Cert students. 
 
 For corrections and any other enquiries, please send an email to: pomahony250 at gmail dot com.
 
-## Junior Cert
+## Paper 1
 
 ### Algebra
 
@@ -29,6 +27,8 @@ For corrections and any other enquiries, please send an email to: pomahony250 at
 
 * [Equating Coefficients](https://drive.google.com/file/d/1BgvdP6pEvwpSDyRvaEH-SkwdIVOgOzYy/view?usp=sharing)
 
+* [Word Problems](https://drive.google.com/file/d/15XEKADn5kWssgw0jWZobC8ZwdhXZM7x6/view?usp=sharing)
+
 ### Functions
 
 * [Understanding Functions](https://drive.google.com/file/d/1CEr0nYXR028SK9E_ASbnLG_lWqnDOS0z/view?usp=sharing)
@@ -37,17 +37,13 @@ For corrections and any other enquiries, please send an email to: pomahony250 at
 
 * [Functions Wrap-Up](https://drive.google.com/file/d/1DkDzE9b15q9dyTNKciAjG5UKuwGEfAjJ/view?usp=sharing)
 
-### Statistics
+### Surds and Indices
 
-* [Statistics 1](https://drive.google.com/file/d/1EeQg9Q7gpxpEBLz3fZMaZFqTYhW9kefG/view?usp=sharing)
+* [Surds](https://drive.google.com/file/d/1Kwaf3Vg0tHXDBuWwEcSzTw6HpPlBaOS5/view?usp=sharing)
 
-### Coordinate Geometry
+* [Indices](https://drive.google.com/file/d/106UzI2S3JQDwZkie40dQJtBGp2Ue1QOk/view?usp=sharing)
 
-* [Coordinate Geometry 1](https://drive.google.com/file/d/1F52Dpp-byIclX1HPldkF9DyKQeeugnnc/view?usp=sharing)
-
-* [Coordinate Geometry 2](https://drive.google.com/file/d/1GIORCv2AVQ1vrZFRUnL4RQeFZ3Zzn-kH/view?usp=sharing)
-
-* [Coordinate Geometry 3](https://drive.google.com/file/d/1GPQWWli3wsW_ksU3seXgIwFLQ-rZAeVs/view?usp=sharing)
+* [Index Notation](https://drive.google.com/file/d/106HdBqBf_ZTRacwrcfqsQ2P3FyIbfvpc/view?usp=sharing)
 
 ### Number
 
@@ -59,22 +55,52 @@ For corrections and any other enquiries, please send an email to: pomahony250 at
 
 * [Sets and Venn Diagrams](https://drive.google.com/file/d/1JE47Qe1j3hYdU_D8jd6gB-R6GU9WBsTH/view?usp=sharing)
 
+## Paper 2
+
+### Statistics
+
+* [Statistics 1](https://drive.google.com/file/d/1EeQg9Q7gpxpEBLz3fZMaZFqTYhW9kefG/view?usp=sharing)
+
+* [Statistics 2](https://drive.google.com/file/d/15qBRJ3_5WZ9OM0lEvkSaYuSSYYjZUike/view?usp=sharing)
+
+* [Probability 1](https://drive.google.com/file/d/168LQzO_ZJApgH71eZiR-DLicPKMr4_gH/view?usp=sharing)
+
+* [Probability 2](https://drive.google.com/file/d/16t0av1x9giNfb5wJ-N4f5vTX8U5fRSz-/view?usp=sharing)
+
+### Coordinate Geometry
+
+* [Coordinate Geometry 1](https://drive.google.com/file/d/1F52Dpp-byIclX1HPldkF9DyKQeeugnnc/view?usp=sharing)
+
+* [Coordinate Geometry 2](https://drive.google.com/file/d/1GIORCv2AVQ1vrZFRUnL4RQeFZ3Zzn-kH/view?usp=sharing)
+
+* [Coordinate Geometry 3](https://drive.google.com/file/d/1GPQWWli3wsW_ksU3seXgIwFLQ-rZAeVs/view?usp=sharing)
+
 ### Area and Volume
 
 * [Area and Volume 1](https://drive.google.com/file/d/1JYVbseE7Nn49_CDJuuyVzmXCaFyHi9Sc/view?usp=sharing)
 
 * [Area and Volume 2](https://drive.google.com/file/d/1KJOkSM3SifSIBsa9PFZjfdSV8Sg-PRVc/view?usp=sharing)
 
-### Surds and Indices
-
-* [Surds](https://drive.google.com/file/d/1Kwaf3Vg0tHXDBuWwEcSzTw6HpPlBaOS5/view?usp=sharing)
-
-* [Indices](https://drive.google.com/file/d/106UzI2S3JQDwZkie40dQJtBGp2Ue1QOk/view?usp=sharing)
-
-* [Index Notation](https://drive.google.com/file/d/106HdBqBf_ZTRacwrcfqsQ2P3FyIbfvpc/view?usp=sharing)
-
 ### Trigonometry
 
 * [Trigonometry 1](https://drive.google.com/file/d/10fe93g5G5hEHNDysHH1KcVxBf7GSeMoU/view?usp=sharing)
+
+* [Trigonometry 2](https://drive.google.com/file/d/11BJmX-hhLD8b4DDx-YuR0c1wh80aeVSZ/view?usp=sharing)
+
+### Geometry
+
+* [Geometry 1 - Angle and Triangle Properties](https://drive.google.com/file/d/125rxorfFM2G9HlEEBJBEtQpAKKx_7145/view?usp=sharing)
+
+* [Geometry 2 - Congruent and Similar Triangles](https://drive.google.com/file/d/12G8dwYUXPaXqOK_oHViQcerGBFO1PFLe/view?usp=sharing)
+
+* [Geometry 3 - Quadrilaterals and Bisectors](https://drive.google.com/file/d/12d0j5ggbVBjsPWps3af73ay_2OxRsKhC/view?usp=sharing)
+
+* [Geometry 4 - Circle](https://drive.google.com/file/d/13BGcDJKLftnbDmdda-TUrojQ59kp3sZ1/view?usp=sharing)
+
+* [Transformations](https://drive.google.com/file/d/14TdR5pzkMDDIOkuxbzL-aXyHZbcXpbAe/view?usp=sharing)
+
+* Constructions - not covered. I think this is better learned by watching rather than reading.The Maths's Tutor's [Youtube playlist](https://www.themathstutor.ie/junior-cert-higher-constructions/) is very helpful.
+
+
 
 
